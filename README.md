@@ -4,4 +4,4 @@ This a Weather app that that gets the current weather of your Country and City t
 Npm install directory to get the node module
 npm start to start your the app in your localhost
 
-the live link: https://myweather-appe.herokuapp.com/+
+The live link: https://myweather-appe.herokuapp.com/
